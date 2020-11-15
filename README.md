@@ -1,2 +1,2 @@
-# Memprediksi_gambar_menggunakan_python
+# Menggunakan tool Google Colaboratory
 mengimplementasikan augmentasi gambar menggunakan image data generator, model sequential di Google Colaboratory
